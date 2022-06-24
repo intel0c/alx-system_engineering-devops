@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name ".html" -type f | xargs cp -vt /alx-system_engineering-devops
+cp rua *.hmtl ../
