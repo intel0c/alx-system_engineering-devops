@@ -1,1 +1,1 @@
-shell_variables_expansions
+This project is for shell variables expansions
